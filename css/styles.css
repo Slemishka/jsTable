@@ -1,0 +1,13 @@
+.tableMain{
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 9.0pt;
+}
+.alphaColumn{
+    width: 40px;
+    cursor: pointer;
+    background-color: #C3DAF9;
+    border: 1px solid #002d96;
+}
+.mainColumn{
+    text-align: center;
+}
